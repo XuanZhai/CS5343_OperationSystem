@@ -1,0 +1,4 @@
+WSL not found at: C:\Users\Xuan Zhai\AppData\Local\Microsoft\WindowsApps\ubuntu2004.exe Configure Disable profile
+
+Cannot get compiler information:
+	Connection refused: connect

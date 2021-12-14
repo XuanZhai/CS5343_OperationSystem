@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Code/CS7343/Project3/Graph.h
+iostream
+-
+vector
+-
+list
+-
+algorithm
+-
+
+/mnt/c/Code/CS7343/Project3/Human.h
+cstdlib
+-
+vector
+-
+ctime
+-
+
+/mnt/c/Code/CS7343/Project3/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+cstdlib
+-
+pthread.h
+-
+mutex
+-
+Human.h
+/mnt/c/Code/CS7343/Project3/Human.h
+Graph.h
+/mnt/c/Code/CS7343/Project3/Graph.h
+

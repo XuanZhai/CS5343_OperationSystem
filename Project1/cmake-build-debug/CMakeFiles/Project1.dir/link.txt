@@ -1,0 +1,1 @@
+/usr/bin/cc -pthread -g CMakeFiles/Project1.dir/Zhai_James_prog1.c.o -o Project1 

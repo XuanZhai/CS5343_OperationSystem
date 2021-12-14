@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Code/CS7343/Project2/Zhai_James_prog2.c
+stdio.h
+-
+stdlib.h
+-
+pthread.h
+-
+string.h
+-
+time.h
+-
+

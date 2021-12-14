@@ -1,0 +1,4 @@
+CMake executable is incorrect Configure Disable profile
+
+Cannot get compiler information:
+	Connection refused: connect
